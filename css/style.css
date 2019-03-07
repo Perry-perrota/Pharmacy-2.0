@@ -1,7 +1,7 @@
 .pharmacy {
   height: 90px;
   width: 1000px;
-  background-color: #84DE02;
+  background-color: #206600;
   text-align: center;
   position: ;
   margin-left: 120px;
@@ -52,7 +52,7 @@
   margin-top: 10px;
 }
 .panel-heading {
-  background-color: #736A62;
+  background-color: #b8b894;
   text-align: center;
 }
 .panel-title {
@@ -70,7 +70,7 @@
   font-weight: 660;
 }
 #button {
-  background-color: #84DE02;
+  background-color: #00ccff;
   height: 35px;
   width: 70px;
   font-weight: 800;
@@ -80,7 +80,7 @@
   background-color:
 }
 .footer {
-  background-color: #84DE02;
+  background-color: #206600;
   margin-top: 10px;
   padding-bottom: 100px;
   margin-left: -312px;
@@ -103,7 +103,7 @@
    margin-right: 400px;
  }
 .abtus{
-  background-color: #C8C8CD;
+  background-color: #a8ff80;
   padding-bottom: 10px;
   border-radius: 5px;
 }
