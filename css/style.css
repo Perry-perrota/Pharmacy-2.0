@@ -1,0 +1,49 @@
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  color: black;
+  text-align: center;
+}
+td, th {
+  text-align: left;
+  padding: 8px;
+}
+.sidewin {
+  height: 100%;
+  width: 250px;
+  position: fixed;
+  background-color: grey;
+  overflow-x: hidden;
+  padding-top: 20px;
+  top: 0;
+  right: 0;
+}
+
+.sidewin a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 40px;
+  color: white;
+  display: block;
+}
+.cart {
+  width: 250px;
+}
+.continue {
+  border-radius: 4px;
+  color: green;
+}
+.order {
+  border-radius: 4px;
+  color: green;
+}
+.welcome {
+  text-decoration: overline;
+  text-align: center;
+  font-style: italic;
+  font-size: 30px;
+}
+.drug {
+  text-align: center;
+}
