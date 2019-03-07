@@ -1,0 +1,122 @@
+.pharmacy {
+  height: 90px;
+  width: 1000px;
+  background-color: #84DE02;
+  text-align: center;
+  position: ;
+  margin-left: 120px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  font-weight: 1000;
+  font-size: 1000px;
+  margin-top: -15px;
+  color: blue;
+  padding-top: 6px;
+}
+.contacts {
+  background-color: #C8C8CD;
+  padding-bottom: 100px;
+  margin-left: 15px;
+  margin-top: 10px;
+  border-radius: 6px;
+
+}
+.location {
+  background-color: #C8C8CD;
+  margin-right: 15px;
+  margin-top: 10px;
+  border-radius: 6px;
+}
+.customer {
+  background-color: #C8C8CD;
+  text-align: center;
+  margin-top: -190px;
+  margin-left: 15px;
+  margin-right: -80px;
+  border-radius: 6px;
+}
+#inmessage {
+  width: 300px;
+  height: 50px;
+  border-radius: 4px;
+  margin-top: 10px;
+}
+#yname {
+  border-radius: 4px;
+  margin-top: 10px;
+}
+#yemail{
+  border-radius: 4px;
+  margin-top: 10px;
+}
+.panel-heading {
+  background-color: #736A62;
+  text-align: center;
+}
+.panel-title {
+  font-size: 25px;
+}
+#img {
+  margin-left: 3px;
+  width: 605px;
+  border-radius: 80em;
+}
+.conts {
+  margin-top: 40px;
+  margin-left: 20px;
+  font-size: 17px;
+  font-weight: 660;
+}
+#button {
+  background-color: #84DE02;
+  height: 35px;
+  width: 70px;
+  font-weight: 800;
+  font-size: 20px;
+}
+.menu {
+  background-color:
+}
+.footer {
+  background-color: #84DE02;
+  margin-top: 10px;
+  padding-bottom: 100px;
+  margin-left: -312px;
+  margin-right: -642px;
+  border-radius: 3px;
+}
+#fb {
+  height: 70px;
+  width: 70px;
+  margin-left: 500px;
+  margin-top: 15px;
+}
+#about {
+   font-size: 40px;
+   text-align: center;
+   font-weight: 1000;
+   color: green;
+ }
+ #con {
+   margin-right: 400px;
+ }
+.abtus{
+  background-color: #C8C8CD;
+  padding-bottom: 10px;
+  border-radius: 5px;
+}
+#ab{
+  padding-left: 10px;
+  font-size: 20px;
+  font-weight: 500;
+}
+#abc {
+  text-align: center;
+  color: #d4af37;
+  font-size: 20px;
+}
+.abc1 {
+  margin-top: -20px;
+}
