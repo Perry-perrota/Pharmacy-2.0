@@ -18,6 +18,43 @@ button{
 .panel{
   float: left;
 }
+.panel-title{
+  background-color: green;
+  margin-right: 10px;
+  padding-left: 10px;
+
+}
 .form-validation{
   margin-left: 60px;
+}
+.side-window{
+  float: left;
+  background-color: green;
+  padding-top: 20px;
+  width: 13vw;
+  margin-top: 170px;
+  padding: 10px;
+  height:auto;
+}
+a{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  color: black;
+  font-size: 20px;
+  font-style: italic;
+
+}
+
+ul.side-links{
+  padding-top: 30px;
+}
+li{
+  list-style-type: none;
+}
+.modal-content{
+  display: none;
+  position: fixed;
+}
+.jumbotron{
+  background-color: green;
 }
