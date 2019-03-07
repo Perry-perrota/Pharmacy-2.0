@@ -27,3 +27,6 @@ td, th {
   color: white;
   display: block;
 }
+.cart {
+  width: 250px;
+}
