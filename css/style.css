@@ -30,3 +30,11 @@ td, th {
 .cart {
   width: 250px;
 }
+.continue {
+  border-radius: 4px;
+  color: green;
+}
+.order {
+  border-radius: 4px;
+  color: green;
+}
