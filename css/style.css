@@ -38,3 +38,12 @@ td, th {
   border-radius: 4px;
   color: green;
 }
+.welcome {
+  text-decoration: overline;
+  text-align: center;
+  font-style: italic;
+  font-size: 30px;
+}
+.drug {
+  text-align: center;
+}
